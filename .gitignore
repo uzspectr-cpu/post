@@ -1,0 +1,9 @@
+# maxfiy va lokal ma'lumotlar
+.env
+data/
+backups/
+
+# loglar va kesh
+*.log
+__pycache__/
+*.pyc
